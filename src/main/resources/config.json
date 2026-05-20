@@ -1,0 +1,6 @@
+{
+  "refreshIntervalSeconds": 1,
+  "maxProcesses": 10,
+  "sparklineLength": 10,
+  "widgets": ["cpu", "memory", "process"]
+}
